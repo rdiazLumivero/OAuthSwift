@@ -761,7 +761,7 @@
 					};
 					C48B28011AFA598D00C7DEF6 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = A66L57342X;
+						DevelopmentTeam = 8F4S7H8S59;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Manual;
 					};
@@ -1222,6 +1222,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = A66L57342X;
+				"DEVELOPMENT_TEAM[sdk=macosx*]" = 8F4S7H8S59;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1258,6 +1259,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = A66L57342X;
+				"DEVELOPMENT_TEAM[sdk=macosx*]" = 8F4S7H8S59;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
