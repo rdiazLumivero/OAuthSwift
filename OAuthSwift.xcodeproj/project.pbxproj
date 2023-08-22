@@ -153,6 +153,8 @@
 			isa = PBXBuildRule;
 			compilerSpec = com.apple.xcode.tools.swift.compiler;
 			fileType = sourcecode.swift;
+			inputFiles = (
+			);
 			isEditable = 1;
 			outputFiles = (
 			);
@@ -1221,7 +1223,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = A66L57342X;
+				DEVELOPMENT_TEAM = 8F4S7H8S59;
 				"DEVELOPMENT_TEAM[sdk=macosx*]" = 8F4S7H8S59;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -1258,7 +1260,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = A66L57342X;
+				DEVELOPMENT_TEAM = 8F4S7H8S59;
 				"DEVELOPMENT_TEAM[sdk=macosx*]" = 8F4S7H8S59;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
